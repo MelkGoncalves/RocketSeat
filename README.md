@@ -1,2 +1,2 @@
 # RocketSeat
-Projetos desafiadores !
+Lista de Compras
